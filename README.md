@@ -1,2 +1,4 @@
 # ICT-Portfolio
-AICT coursework and practical lab projects covering core concepts, web development, and database fundamentals.
+Umar Pasha
+Bachelors Of Science In Computer Science (Bs-CS)
+First Semester (1st)
